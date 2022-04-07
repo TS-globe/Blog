@@ -1,0 +1,16 @@
+#contact iframe
+{
+    width: 100%;
+}
+
+#img1{
+    height: 30px;
+    width: 40px;
+    border-style: solid;
+    border-radius: 50%;
+    border-width: 1px;
+}
+
+.travel-name{
+    border: 1px solid black;
+}
